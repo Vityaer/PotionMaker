@@ -1,0 +1,306 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 877aadc55f634304a846d519c33adef9, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  IDLanguage: 1
+  generalInfo:
+    ApplicationName: Potions
+    Settings: Settings
+    Nickname: Nickname
+    Back: Back
+    FinishStep: Finish turn
+    Ready: Ready!
+    NotReady: Not ready
+    StartGame: Start game
+    CreateRoom: Create room
+    RandomRoom: Random room
+    LeaveRoom: Leave
+    ShowListRooms: Show list rooms
+    language: Language
+    sounds: Sounds
+    music: Music
+    countGame: Count game
+    countWin: Count win
+    winRate: Win rate
+    resultWin: Win!
+    resultDefeat: Defeat!
+    resultDraw: Draw
+    PrintNickname: Enter nickname...
+    PrintRoomName: Enter name of room...
+    ConnectToServer: Connect
+    ConnectToRoom: Come in room
+    NameRoom: Name of room
+    CountPlayers: Count players
+    Create: Create
+    ConnectToRandomRoom: Try connect to random room...
+    Statistic: Accaunt
+    Player: Player
+    Room: Room
+    InMainMenu: In main menu
+    MyStep: My turn
+    OpponentStep: Opponent turn
+    FinishGame: Finish game
+    PlayerPlace: Rank
+    Score: Score
+    Table: Table
+    Closet: Closet
+    You: You
+    GameAI: Game versus AI
+    Online: Online
+    Rules: Rules
+    Exit: Exit
+    Swap: Swap
+    Select: Get it!
+  listReagentLocalization:
+  - Name: Red dust
+    reagentName: 0
+    Description: 
+  - Name: Dop of the sea
+    reagentName: 1
+    Description: 
+  - Name: Sand
+    reagentName: 2
+    Description: 
+  - Name: Four-leaf clover
+    reagentName: 3
+    Description: 
+  - Name: Powder of Darkness
+    reagentName: 4
+    Description: 
+  - Name: Rock salt
+    reagentName: 5
+    Description: 
+  - Name: Dust of emptiness
+    reagentName: 6
+    Description: 
+  - Name: Fruit of failure
+    reagentName: 7
+    Description: 
+  - Name: Leaf death
+    reagentName: 8
+    Description: 
+  - Name: The power of a star
+    reagentName: 9
+    Description: 
+  - Name: Dragon flower
+    reagentName: 10
+    Description: 
+  - Name: Wasted thought
+    reagentName: 11
+    Description: 
+  - Name: Seed of life
+    reagentName: 12
+    Description: 
+  - Name: Dried tea leaves
+    reagentName: 13
+    Description: 
+  - Name: Coral
+    reagentName: 14
+    Description: 
+  - Name: Energy of the universe
+    reagentName: 15
+    Description: 
+  - Name: Potion Love
+    reagentName: 16
+    Description: 
+  - Name: Potion Power
+    reagentName: 17
+    Description: 
+  - Name: Potion Loyalty
+    reagentName: 18
+    Description: 
+  - Name: Potion Knowledge
+    reagentName: 19
+    Description: 
+  - Name: Potion Fire
+    reagentName: 20
+    Description: 
+  - Name: Potion Invisible
+    reagentName: 21
+    Description: 
+  - Name: Potion Eternity
+    reagentName: 22
+    Description: 
+  - Name: Potion Obvilion
+    reagentName: 23
+    Description: 
+  - Name: Potion Dominion
+    reagentName: 24
+    Description: 
+  - Name: Potion Last Sleep
+    reagentName: 25
+    Description: 
+  - Name: Potion Protection
+    reagentName: 26
+    Description: 
+  - Name: Potion Superior Sight
+    reagentName: 27
+    Description: 
+  - Name: Potion Rapid Growth
+    reagentName: 28
+    Description: 
+  - Name: Potion Silence
+    reagentName: 29
+    Description: 
+  - Name: Potion Earth Protection
+    reagentName: 30
+    Description: 
+  - Name: Potion Youth
+    reagentName: 31
+    Description: 
+  - Name: Elixir Telepathy
+    reagentName: 32
+    Description: 
+  - Name: Elixir Wisdom
+    reagentName: 33
+    Description: 
+  - Name: Elixir Lord Plants
+    reagentName: 34
+    Description: 
+  - Name: Elixir Flight
+    reagentName: 35
+    Description: 
+  - Name: Amulet Serpent Control
+    reagentName: 36
+    Description: 
+  - Name: Amulet Plant Lord's
+    reagentName: 37
+    Description: 
+  - Name: Amulet Blood
+    reagentName: 38
+    Description: 
+  - Name: Amulet Flesh
+    reagentName: 39
+    Description: 
+  - Name: Unicorn
+    reagentName: 40
+    Description: 
+  - Name: Griffin
+    reagentName: 41
+    Description: 
+  - Name: Basilisk
+    reagentName: 42
+    Description: 
+  - Name: Medusa
+    reagentName: 43
+    Description: 
+  - Name: Powder Control
+    reagentName: 44
+    Description: 
+  - Name: Powder Incorporeal
+    reagentName: 45
+    Description: 
+  - Name: Powder Truth
+    reagentName: 46
+    Description: 
+  - Name: Powder Fate
+    reagentName: 47
+    Description: 
+  - Name: Great Elixir Power
+    reagentName: 48
+    Description: 
+  - Name: Great Elixir Epiphany
+    reagentName: 49
+    Description: 
+  - Name: Grew Elixir Immortality
+    reagentName: 51
+    Description: 
+  - Name: Great Elixir Space
+    reagentName: 52
+    Description: 
+  - Name: Great Elixir Time
+    reagentName: 53
+    Description: 
+  - Name: Great Elixir Protection
+    reagentName: 54
+    Description: 
+  - Name: Great Elixir Eternal Love
+    reagentName: 55
+    Description: 
+  - Name: Great Guardian
+    reagentName: 56
+    Description: 
+  - Name: Salamander
+    reagentName: 57
+    Description: 
+  - Name: Dragon Fafnir
+    reagentName: 58
+    Description: 
+  - Name: Banshee
+    reagentName: 59
+    Description: 
+  - Name: Sangrail
+    reagentName: 60
+    Description: 
+  - Name: Great Amulet of Omnipotence
+    reagentName: 61
+    Description: 
+  - Name: It's my!
+    reagentName: 80
+    Description: Take any top card from the cabinet
+  - Name: Reverse - Alchemy
+    reagentName: 81
+    Description: In your collected recipes, change the main and ingredient in the
+      recipe.
+  - Name: Unfair exchange
+    reagentName: 82
+    Description: Swap the collected recipe for any top card from the cabinet.
+  - Name: Great Elixir Revival
+    reagentName: 50
+    Description: 
+  listMessageLocalization:
+  - name: 0
+    containText: Determining the order of moves...
+  - name: 1
+    containText: Waiting for other players to load...
+  - name: 2
+    containText: Deal cards...
+  - name: 3
+    containText: You have no collected items
+  - name: 5
+    containText: Nickname empty!
+  - name: 6
+    containText: ' Name changed!'
+  - name: 8
+    containText: You alone in room
+  - name: 9
+    containText: Player left game
+  - name: 7
+    containText: Save error
+  - name: 4
+    containText: Closet empty
+  - name: 10
+    containText: Closet not contains reagent
+  listTextLocalization:
+  - name: 0
+    containText: Drag the card to the closet to add material. If there was no such
+      material in the closet, then you will receive bonus points
+  - name: 1
+    containText: Drag the card onto the table to start creating
+  - name: 2
+    containText: Select materials according to the recipe
+  - name: 3
+    containText: In a turn, you can place any number of cards in the closet and create
+      any number of recipes
+  - name: 4
+    containText: Holy Grail can be crafted from any 2 great elixirs
+  - name: 5
+    containText: "\rThe Great Amulet can be assembled from any 2 amulets"
+  - name: 6
+    containText: Magic cards can be laid out on the table, then they will act in
+      accordance with the description, or placed in the closet as a material
+  - name: 0
+    containText: 'There are 3 types of cards
+
+      Here they are, from left to right
+      (recipe, magic, simple stuff)'

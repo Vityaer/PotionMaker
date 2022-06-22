@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eb15911ad48bb9479ddaa22017b4aca, type: 3}
+  m_Name: UltraGreatElxir
+  m_EditorClassIdentifier: 
+  name: Sangrail
+  ID: 26
+  colorCard: {r: 0.70229566, g: 0.735849, b: 0.05206478, a: 1}
+  typeCard: 1
+  reagentName: 60
+  sprite: {fileID: 0}
+  amountScore: 16
+  description: 
+  receipt: 3000000031000000320000003300000034000000350000003600000037000000
+  countRequireIngredient: 2
+  reagentStore: 0c000000
+  specialImageIngredient: {fileID: -1876426124, guid: e5fd8e69be2783f44874cfe89127cb65, type: 3}
